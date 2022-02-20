@@ -1,0 +1,224 @@
+body {
+  background-color: rgb(162, 94, 226);
+}
+.header {
+  background-color: #54ee54;
+  margin: auto;
+  width: 370px;
+  text-align: center;
+  border: 2px solid;
+  font-size: large;
+}
+.div1 {
+  border: 2px solid;
+  background-color: yellow;
+  text-align: center;
+  width: 250px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: large;
+}
+.div2 {
+  border: 2px solid;
+  background-color: yellow;
+  text-align: center;
+  width: 420px;
+  margin: auto;
+  margin-top: 5px;
+  font-size: large;
+}
+.div-body {
+  border: 2px solid;
+  background-color: yellow;
+  width: 80px;
+  margin: auto;
+  margin-top: 10px;
+  text-align: center;
+  font-size: large;
+}
+.external-1st-div {
+  border: 2px solid;
+  height: 300px;
+  width: 1315px;
+  height: 680px;
+  margin: auto;
+  margin-top: 5px;
+  font-size: large;
+  background-color: rgb(204, 116, 200);
+}
+.external-2nd-div {
+  border: 2px solid;
+  height: 560px;
+  width: 1115px;
+  margin: auto;
+  margin-top: 5px;
+  font-size: large;
+  background-color: rgb(106, 255, 106);
+}
+.wrapper {
+  border: 2px solid;
+  background-color: yellow;
+  text-align: center;
+  width: 280px;
+  margin: auto;
+  margin-top: 10px;
+  font-size: large;
+}
+.external-3rd-div {
+  border: 2px solid;
+  height: 460px;
+  width: 915px;
+  margin: auto;
+  margin-top: 5px;
+  font-size: large;
+  background-color: rgb(209, 178, 238);
+}
+.container1 {
+  border: 2px solid;
+  background-color: yellow;
+  text-align: center;
+  width: 280px;
+  margin: auto;
+  margin-top: 10px;
+  font-size: large;
+}
+.closes-body {
+  border: 2px solid;
+  background-color: yellow;
+  text-align: center;
+  width: 280px;
+  margin: auto;
+  margin-top: 20px;
+  font-size: large;
+}
+.skin {
+  border: 2px solid;
+  background-color: rgb(218, 230, 150);
+  text-align: center;
+  width: 870px;
+  height: 50px;
+  margin: auto;
+  margin-top: 20px;
+  font-size: large;
+}
+
+.header2 {
+  border: 2px solid;
+  background-color: yellow;
+  text-align: center;
+  width: 280px;
+  margin: auto;
+  margin-top: 12px;
+  font-size: large;
+}
+.pink {
+  border: 2px solid;
+  background-color: rgb(224, 81, 193);
+  text-align: center;
+  width: 830px;
+  height: 60px;
+  margin: auto;
+  margin-top: 20px;
+  font-size: large;
+}
+
+.navigation {
+  border: 2px solid;
+  background-color: yellow;
+  text-align: center;
+  width: 280px;
+
+  margin: auto;
+  margin-top: 18px;
+  font-size: large;
+}
+.skyblue {
+  border: 2px solid;
+  background-color: rgb(128, 155, 241);
+  text-align: center;
+  width: 830px;
+  height: 130px;
+  margin: auto;
+  margin-top: 20px;
+  font-size: large;
+}
+.yellow {
+  border: 2px solid;
+  background-color: yellow;
+  text-align: center;
+  width: 780px;
+  height: 100px;
+  margin: auto;
+  margin-top: 20px;
+  font-size: large;
+}
+.content {
+  border: 2px solid;
+  background-color: rgb(175, 175, 175);
+  text-align: center;
+  width: 230px;
+
+  margin: auto;
+  margin-bottom: -30px;
+  margin-left: 50px;
+  font-size: large;
+}
+.float-right {
+  border: 2px solid;
+  background-color: yellow;
+  text-align: center;
+  width: 230px;
+  background-color: rgb(211, 205, 205);
+  margin: auto;
+  margin-left: 500px;
+  margin-top: 10px;
+
+  font-size: large;
+}
+.container2 {
+  margin-top: 10px;
+}
+.footer-outside {
+  border: 2px solid;
+  background-color: rgb(218, 180, 156);
+  text-align: center;
+  width: 830px;
+  height: 60px;
+  margin: auto;
+  margin-top: 18px;
+  font-size: large;
+}
+.footer-text {
+  border: 2px solid;
+  background-color: yellow;
+  text-align: center;
+  width: 280px;
+
+  margin: auto;
+  margin-top: 18px;
+  font-size: large;
+}
+.div-closes-body {
+  border: 2px solid;
+  background-color: yellow;
+  text-align: center;
+  width: 280px;
+  margin: auto;
+  margin-top: 18px;
+  font-size: large;
+}
+.div-closes-document {
+  border: 2px solid;
+  background-color: yellow;
+  text-align: center;
+  width: 280px;
+
+  margin: auto;
+  margin-top: 20px;
+  font-size: large;
+}
+.last {
+  display: flex;
+  justify-content: space-between;
+}
